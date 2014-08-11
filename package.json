@@ -1,6 +1,6 @@
 {
   "name": "bbox-intersect",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "bbox-intersect ==============",
   "main": "index.js",
   "scripts": {
