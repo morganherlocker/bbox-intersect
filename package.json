@@ -1,0 +1,22 @@
+{
+  "name": "bbox-intersect",
+  "version": "0.0.0",
+  "description": "bbox-intersect ==============",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/morganherlocker/bbox-intersect.git"
+  },
+  "author": "morganherlocker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morganherlocker/bbox-intersect/issues"
+  },
+  "homepage": "https://github.com/morganherlocker/bbox-intersect",
+  "dependencies": {
+    "tape": "^2.14.0"
+  }
+}
