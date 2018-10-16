@@ -16,7 +16,8 @@
     "url": "https://github.com/morganherlocker/bbox-intersect/issues"
   },
   "homepage": "https://github.com/morganherlocker/bbox-intersect",
-  "dependencies": {
-    "tape": "^2.14.0"
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.9.1"
   }
 }
